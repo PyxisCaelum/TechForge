@@ -3,7 +3,7 @@ Repositório criado na aula de techForge, durante o aprendizado da ferramenta Gi
 
 Conteúdo apresentado:
 
-- Comtexto de sistemas de controle de versão
+- Contexto de sistemas de controle de versão
 - O que é Git
 - O que é GitHub
 - Git Clone
